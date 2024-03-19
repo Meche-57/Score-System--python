@@ -1,0 +1,3 @@
+Progress(Module trailer): Pass Credits=100, Defer Credits=20, Fail Credits=0
+Progress: Pass Credits=120, Defer Credits=0, Fail Credits=0
+Module Retriever: Pass Credits=0, Defer Credits=60, Fail Credits=60
